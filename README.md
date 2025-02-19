@@ -1,0 +1,3 @@
+# NTU EE2073 Lab Notebooks
+#### EE2073: Introduction to EEE Design & Project
+This course aims to inspire your interest in learning through active participations in the laboratory-based and practice-oriented course on the solutions of typical engineering system design and implementation problems covering multi-disciplinary areas of electrical, electronic and computer engineering. Contents: Lecture on Data Acquisition System and Application, and Electronic Circuit and System Design. A laboratory modules on LabVIEW programming and prescribed Project.
